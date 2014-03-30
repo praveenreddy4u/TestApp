@@ -2,7 +2,4 @@
     <resources>
         <resource-root path="properties"/>
     </resources>
-     <resources>
-        <resource-root path="properties-v2"/>
-    </resources>
 </module>
